@@ -7,8 +7,18 @@ Pascal Jansen\*, Mark Colley\*, Svenja Krauß, Daniel Hirschle, Enrico Rukzio
 ## Citation
 To cite this dataset, please use the following:
 
-@inproceedings{Jansen2025Opticar, author = {Pascal Jansen and Mark Colley and Svenja Krauß and Daniel Hirschle and Enrico Rukzio}, title = {OptiCarVis: Improving Automated Vehicle Functionality Visualizations Using Bayesian Optimization to Enhance User Experience}, year = {2025}, booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)}, location = {Yokohama, Japan}, pages = {April 26-May 1}, doi = {10.1145/3706598.3713514}, publisher = {ACM}, isbn = {979-8-4007-1394-1/25/04} }
-
+```
+@inproceedings{Jansen2025Opticar,
+author = {Pascal Jansen and Mark Colley and Svenja Krauß and Daniel Hirschle and Enrico Rukzio},
+title = {OptiCarVis: Improving Automated Vehicle Functionality Visualizations Using Bayesian Optimization to Enhance User Experience},
+year = {2025},
+booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)},
+location = {Yokohama, Japan},
+pages = {April 26-May 1},
+doi = {10.1145/3706598.3713514},
+publisher = {ACM},
+isbn = {979-8-4007-1394-1/25/04} }
+```
 
 
 ## Abstract
@@ -27,6 +37,6 @@ We also provide the R-scripts for the evaluation of the data.
 This dataset is shared under a Creative Commons Attribution (CC BY) license. You are free to use, adapt, and distribute this dataset with proper attribution to the authors.
 
 ## Contact
-For inquiries, please contact Pascal Jansen (pascal.jansen@uni-ulm.de) or Mark Colley (mark.colley@uni-ulm.de).
+For inquiries, please contact Pascal Jansen (pascal.jansen@uni-ulm.de) or Mark Colley (m.colley@ucl.ac.uk).
 
 
