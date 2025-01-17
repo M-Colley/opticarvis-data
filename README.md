@@ -1,7 +1,7 @@
 # Data from "OptiCarVis: Improving Automated Vehicle Functionality Visualizations Using Bayesian Optimization to Enhance User Experience"
 
 ## Authors
-Pascal Jansen\*, Mark Colley\*, Svenja Krauß, Daniel Hirschle, Enrico Rukzio  
+[Pascal Jansen](https://scholar.google.de/citations?user=cR1_0-EAAAAJ&hl=en)\*, [Mark Colley](https://scholar.google.de/citations?user=Kt5I7wYAAAAJ&hl=de&oi=ao)\*, Svenja Krauß, Daniel Hirschle, [Enrico Rukzio](https://scholar.google.de/citations?user=LEu4D5gAAAAJ&hl=de&oi=ao)  
 (\*Joint First Authors)
 
 ## Citation
