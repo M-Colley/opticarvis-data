@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+15;"626AF8EA8C93E250E03BFAA6";"GroupB";"GroupB_BO";1;"";09/03/2023 22:05:37;09/03/2023 22:07:17;5;"I made some options to opaque";5;"I wish I had the opportunity to adjust my settings inbetween each task to tweak it better as I learned the instrumentations and the AI's identification of objects";3;4;5;"See my previous notes."
+17;"626AF8EA8C93E250E03BFAA6";"GroupB";"GroupB_BO";2;"";09/05/2023 05:29:39;09/05/2023 05:30:03;5;"N/A";5;"N/A";5
+19;"626AF8EA8C93E250E03BFAA6";"GroupB";"GroupB_BO";3;"";09/06/2023 05:53:26;09/06/2023 05:54:18;5;"see my previous notes. It has stayed consistent throughout.";5;"N/A";3

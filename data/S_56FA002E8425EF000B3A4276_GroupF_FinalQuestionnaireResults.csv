@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+5;"56FA002E8425EF000B3A4276";"GroupF";"GroupF_No";1;"";09/06/2023 21:13:32;09/06/2023 21:14:16;4;"I was unsure what to imagine.";7;"n/a";6;7;7;"n/a"
+7;"56FA002E8425EF000B3A4276";"GroupF";"GroupF_No";2;"";09/08/2023 04:42:31;09/08/2023 04:42:45;7;"n/a";7;"n/a";7
+9;"56FA002E8425EF000B3A4276";"GroupF";"GroupF_No";3;"";09/09/2023 04:48:46;09/09/2023 04:49:04;7;"N/A";7;"N/A";7

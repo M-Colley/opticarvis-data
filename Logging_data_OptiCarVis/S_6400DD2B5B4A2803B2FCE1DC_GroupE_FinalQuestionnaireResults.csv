@@ -1,0 +1,2 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+15;6400DD2B5B4A2803B2FCE1DC;GroupE;GroupE_BO;1;;09/04/2023 21:50:51;09/04/2023 21:52:24;5;NA;7;As I mentioned, I would have liked to see turn signals. I am not sure but I think this final design still had trajectory signs, which I don't find useful. ;6;6;6;Would be nice to have a checklist of potential features you can play around with and customize. 

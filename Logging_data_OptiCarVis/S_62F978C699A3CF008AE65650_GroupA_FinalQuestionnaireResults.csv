@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"62F978C699A3CF008AE65650";"GroupA";"GroupA_No";1;"";09/04/2023 04:09:57;09/04/2023 04:10:40;6;"I would have preferred that there were different level of "threat" or altertness when dealing with pedestrians or cars. A netural "I see this car" versus a "This car is potentially a problem"";7;"n/a";6;2;2;"n/a"
+21;"62F978C699A3CF008AE65650";"GroupA";"GroupA_No";2;"";09/05/2023 09:35:37;09/05/2023 09:35:51;6;"different threat states ";6;"n/a";6
+23;"62F978C699A3CF008AE65650";"GroupA";"GroupA_No";3;"";09/07/2023 00:37:57;09/07/2023 00:38:04;6;"NA";6;"na";6

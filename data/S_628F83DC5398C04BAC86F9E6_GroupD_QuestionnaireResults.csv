@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;TextInput_1
+2;628F83DC5398C04BAC86F9E6;GroupD;GroupD_No;0;edit;09/05/2023 18:15:22;09/05/2023 18:16:47;2;2;1;2;2;2;14;-1;-2;-2;-1;N/A
+3;628F83DC5398C04BAC86F9E6;GroupD;GroupD_No;1;;09/05/2023 18:19:49;09/05/2023 18:20:50;2;2;1;2;1;2;13;-2;-1;-1;-2;Vehicle seemed to be a little more abrasive and aggressive. I worried about car hitting people crossing.
+4;628F83DC5398C04BAC86F9E6;GroupD;GroupD_No;2;;09/06/2023 19:00:56;09/06/2023 19:01:59;2;2;2;2;2;2;14;-1;-1;-2;-1;To me the vehicle made some turns abruptly. When they turned they were not smooth either.
+5;628F83DC5398C04BAC86F9E6;GroupD;GroupD_No;3;;09/07/2023 19:38:45;09/07/2023 19:39:17;2;1;2;2;2;2;13;-2;-2;-2;-2;No issues

@@ -1,0 +1,4 @@
+Group ID; User ID; Iteration; X Filtered Pixel; Y Filtered Pixel; X Filtered Normalized; Y Filtered Normalized; X Raw Normalized; Y Raw Normalized; Distance to Camera in mm; Eye Aspect Ratio (Height/Width); Blinking; Timestamp With Milliseconds; Unix Timestamp In Milliseconds; AOI List; Additional Notes
+62A885D5B6AF18B3D4579E1B;GroupE;10;707;610;0.3686454;0.5650306;0.3686454;0.5650306;297.3;0.2452829;False;09/03/2023 18:49:24:418;1693781364418;;
+62A885D5B6AF18B3D4579E1B;GroupE;10;720;605;0.3750605;0.5604906;0.4052556;0.5254496;296.7;0.2337711;False;09/03/2023 18:49:24:565;1693781364565;Box Collider3638 hit: (Untagged/sidewalk_crossing_T) | Box Collider3940 hit: (Untagged/sidewalk_crossing_T);
+62A885D5B6AF18B3D4579E1B;GroupE;10;723;604;0.3765694;0.5594008;0.4052566;0.5254505;296.2;0.2337703;False;09/03/2023 18:49:24:612;1693781364612;Box Collider3638 hit: (Untagged/sidewalk_crossing_T) | Box Collider3940 hit: (Untagged/sidewalk_crossing_T);

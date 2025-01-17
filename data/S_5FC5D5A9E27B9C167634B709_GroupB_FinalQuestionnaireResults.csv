@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+15;"5FC5D5A9E27B9C167634B709";"GroupB";"GroupB_BO";1;"";09/02/2023 17:31:24;09/02/2023 17:32:14;3;"Would like turn indicators to reveal intentions";4;"Would like turn indicators to reveal intentions";5;3;5;"Would like turn indicators to reveal intentions"
+17;"5FC5D5A9E27B9C167634B709";"GroupB";"GroupB_BO";2;"";09/04/2023 03:33:17;09/04/2023 03:33:35;5;"N/A";5;"N/A";5
+19;"5FC5D5A9E27B9C167634B709";"GroupB";"GroupB_BO";3;"";09/06/2023 01:50:53;09/06/2023 01:51:08;5;"N/A";6;"N/A";6

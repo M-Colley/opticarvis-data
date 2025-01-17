@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+5;"5DB0E17518230D00170D4332";"GroupF";"GroupF_No";1;"";09/02/2023 18:43:26;09/02/2023 18:45:44;5;"Yes it is what I imagined.  Except,  I did not see any out of contol cars or evasive maneuvers";6;"N/A";6;5;4;"I helped design my preferences, I do not knof if other people would like them"
+7;"5DB0E17518230D00170D4332";"GroupF";"GroupF_No";2;"";09/03/2023 19:04:38;09/03/2023 19:05:56;6;"I like the final design.  But I would add a traffic light panel in the visual.  Also most traffic lights have a count down.  I would like to see that too.";6;"N/A";6
+9;"5DB0E17518230D00170D4332";"GroupF";"GroupF_No";3;"";09/05/2023 02:31:43;09/05/2023 02:32:21;6;"N/A";6;"N/A";6

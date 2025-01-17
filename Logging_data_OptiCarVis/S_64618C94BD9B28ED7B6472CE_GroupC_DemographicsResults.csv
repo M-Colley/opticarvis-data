@@ -1,0 +1,2 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Age";"Gender";"Education";"Job";"License";"DrivingFrequency";"Distance";"Activity_1";"Interest_1";"Interest_2";"Interest_3"
+1;"64618C94BD9B28ED7B6472CE";"GroupC";"GroupC_BO";0;"";09/05/2023 17:41:57;09/05/2023 17:42:21;"30";2;4;3;"13";3;2;1;3;6;;4;4;2

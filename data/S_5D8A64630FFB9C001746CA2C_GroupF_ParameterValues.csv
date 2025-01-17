@@ -1,0 +1,3 @@
+UserID;Run;GroupID;LongitudinalID;Trajectory;TrajectoryAlpha;TrajectorySize;EgoTrajectory;EgoTrajectoryAlpha;EgoTrajectorySize;PedestrianIntention;PedestrianIntentionSize;SemanticSegmentation;SemanticSegmentationAlpha;CarStatus;CarStatusAlpha;CoveredArea;CoveredAreaAlpha;CoveredAreaSize;OccludedCars
+5D8A64630FFB9C001746CA2C;1;GroupF;GroupF_BO;0.75;0.62;0.38;0.75;0.79;0.32;0.75;0.17;0.75;0.21;0.75;0.2;0.75;0.9;0.38;0.75
+5D8A64630FFB9C001746CA2C;3;GroupF;GroupF_BO;0.25;0.1;0.12;0.25;0.168;0.264;0.75;0.195;0.25;0.889;0.25;0.742;0.25;0.154;0.754;0.25

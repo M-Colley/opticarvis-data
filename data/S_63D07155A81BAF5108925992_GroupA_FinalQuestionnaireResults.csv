@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"63D07155A81BAF5108925992";"GroupA";"GroupA_No";1;"";09/04/2023 20:06:26;09/04/2023 20:09:31;4;"I imagined all the vehicles highlighted blue. If the paths were created and used, I expect each lane to have a path.";5;"It's okay, but I would prefer vehicles to be highlighted to indicate of their prescense. The pedestrians is fine though.";5;3;4;"I wanted the vehicles to be highlighted especially. I think the design was more focused on pedestrian safety which is also a priority."
+21;"63D07155A81BAF5108925992";"GroupA";"GroupA_No";2;"";09/06/2023 01:42:43;09/06/2023 01:43:03;6;"n/a";7;"n/a";6
+23;"63D07155A81BAF5108925992";"GroupA";"GroupA_No";3;"";09/08/2023 02:03:09;09/08/2023 02:03:25;7;"n/a";7;"n/a";6

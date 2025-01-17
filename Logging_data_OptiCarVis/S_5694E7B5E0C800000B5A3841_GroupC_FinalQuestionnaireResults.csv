@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";1;"";09/03/2023 22:05:32;09/03/2023 22:07:01;2;"It was honestly better than I had imagined... for some reason I felt more comfortable when I was not really seeing a lot of what the 'car' was 'thinking. I felt very safe.";7;"n/a";7
+7;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";2;"";09/05/2023 01:21:10;09/05/2023 01:22:15;5;"n/a";5;"n/a";5
+9;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";3;"";09/06/2023 01:41:12;09/06/2023 01:41:32;7;"n/a";7;"n/a";7

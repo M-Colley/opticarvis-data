@@ -1,0 +1,2 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+15;"571F8B7D936F5F0009C6D7C9";"GroupE";"GroupE_BO";1;"";09/04/2023 19:49:01;09/04/2023 19:51:59;6;"The simulation lasted longer, and had different road";6;"The last simulation was the most enjoyable";6;5;3;"you need different road, and conditions"

@@ -1,0 +1,15 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;Aesthetics_1;Acceptance_1;AttentionCheck_1;Acceptance_2;TextInput_1
+3;5809006B2A296E0001005451;GroupB;GroupB_No;1;exploration;09/05/2023 20:45:53;09/05/2023 20:47:18;2;3;2;5;2;3;13;-1;0;-1;-2;4;6;;5;I am still not sure exactly what the Ego tracking visualization is for. I will recheck the help page for more information.
+4;5809006B2A296E0001005451;GroupB;GroupB_No;2;exploitation;09/05/2023 20:49:44;09/05/2023 20:51:16;2;3;1;5;1;2;10;-3;-1;-2;-3;4;1;;1;I could only see the external sensor area and just had to trust that those sensors were doing their job which was not satisfying when it came to pedestrians.
+5;5809006B2A296E0001005451;GroupB;GroupB_No;3;exploitation;09/05/2023 20:59:17;09/05/2023 21:00:20;3;3;4;5;4;4;10;1;1;1;1;6;7;1;6;The pedestrian visuals are the most important in terms of feeling safe to me.
+6;5809006B2A296E0001005451;GroupB;GroupB_No;4;exploitation;09/05/2023 21:01:54;09/05/2023 21:02:56;4;4;4;5;4;5;9;1;1;1;1;6;7;;6;For stopped vehicles, I kind of wish there was some visual as to potential movement since the stop is temporary.
+7;5809006B2A296E0001005451;GroupB;GroupB_No;5;exploitation;09/05/2023 21:04:39;09/05/2023 21:05:27;4;4;4;5;4;5;8;1;1;2;1;6;7;;6;N/A
+8;5809006B2A296E0001005451;GroupB;GroupB_No;6;exploitation;09/05/2023 21:06:53;09/05/2023 21:07:31;4;4;5;5;4;5;5;2;2;2;2;6;7;;6;N/A
+9;5809006B2A296E0001005451;GroupB;GroupB_No;7;exploitation;09/05/2023 21:08:29;09/05/2023 21:09:07;4;4;5;5;5;5;5;3;3;3;3;6;7;1;6;N/A
+10;5809006B2A296E0001005451;GroupB;GroupB_No;8;exploitation;09/05/2023 21:10:06;09/05/2023 21:10:36;5;5;5;5;5;5;5;3;3;3;3;6;7;;6;N/A
+11;5809006B2A296E0001005451;GroupB;GroupB_No;9;exploitation;09/05/2023 21:12:46;09/05/2023 21:13:16;5;5;5;5;5;5;5;3;3;3;3;6;7;;6;N/A
+12;5809006B2A296E0001005451;GroupB;GroupB_No;10;exploitation;09/05/2023 21:16:38;09/05/2023 21:17:15;5;5;5;5;5;5;5;3;3;3;3;6;7;;6;N/A
+13;5809006B2A296E0001005451;GroupB;GroupB_No;11;exploitation;09/05/2023 21:18:24;09/05/2023 21:18:56;5;5;5;5;5;5;5;3;3;3;3;6;7;1;6;N/A
+14;5809006B2A296E0001005451;GroupB;GroupB_No;1;;09/05/2023 21:21:56;09/05/2023 21:23:04;1;2;1;1;2;1;18;-3;-1;-2;-2;6;3;;5;The trajectory visualizations don't actually show what the upcoming movements truly are before they happen. They aren't predictive. I also saw the car blow through a Stop sign.
+16;5809006B2A296E0001005451;GroupB;GroupB_No;2;;09/06/2023 22:12:53;09/06/2023 22:14:06;2;2;1;1;2;1;18;-2;-2;-2;-3;5;3;;4;I do not like how I can't see the predicted movements of the car. For example, at the stop sign, I would have liked it to display that it was planning a left turn. The trajectory doesn't show that.
+17;5809006B2A296E0001005451;GroupB;GroupB_No;3;;09/07/2023 23:00:04;09/07/2023 23:02:35;1;1;1;1;2;1;17;-3;-3;-3;-3;4;3;;3;N/A

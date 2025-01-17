@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"6444B1E677EBE8B4E2C23ABD";"GroupA";"GroupA_No";1;"";09/04/2023 19:56:00;09/04/2023 19:57:17;6;"N/A";6;"N/A";6;6;6;"N/A"
+21;"6444B1E677EBE8B4E2C23ABD";"GroupA";"GroupA_No";2;"";09/05/2023 21:53:32;09/05/2023 21:55:32;6;"N/A";6;"Turn signals on the final design will be a great added feature.";5
+23;"6444B1E677EBE8B4E2C23ABD";"GroupA";"GroupA_No";3;"";09/06/2023 22:37:25;09/06/2023 22:37:51;6;"N/A";6;"N/A";6

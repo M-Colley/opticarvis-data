@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+15;"5ED68CAC121A540DFB82F4EA";"GroupE";"GroupE_BO";1;"";09/05/2023 01:35:37;09/05/2023 01:36:28;3;"I thought that it would let me know when it was going to turn.";3;"N/A";5;1;1;"N/A"
+17;"5ED68CAC121A540DFB82F4EA";"GroupE";"GroupE_BO";2;"";09/06/2023 15:37:46;09/06/2023 15:38:04;3;"N/A";4;"N/A";4
+19;"5ED68CAC121A540DFB82F4EA";"GroupE";"GroupE_BO";3;"";09/07/2023 17:27:34;09/07/2023 17:27:57;4;"N/A";4;"N/A";4

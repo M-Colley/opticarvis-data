@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+13;5DBE5D44AAB19F35C5459B57;GroupA;GroupA_No;1;;09/05/2023 23:44:31;09/05/2023 23:46:59;7;N/A;7;N/A;7;6;7;I felt a little overwhelmed when the people, the vehicles and the signs were all highlighted. I felt like it was too much to keep track of and made me pretty anxious. By just highlighting the pedestrians alone, I feel it was a lot less overwhelming to keep up with and I do a good job of looking out for the signs and traffic lights on my own. 
+15;5DBE5D44AAB19F35C5459B57;GroupA;GroupA_No;2;;09/07/2023 08:43:57;09/07/2023 08:44:18;5;N/A;4;N/A;4;3;3;N/A
+17;5DBE5D44AAB19F35C5459B57;GroupA;GroupA_No;3;;09/10/2023 20:22:40;09/10/2023 20:23:07;5;N/A;4;N/A;4;3;3;N/A

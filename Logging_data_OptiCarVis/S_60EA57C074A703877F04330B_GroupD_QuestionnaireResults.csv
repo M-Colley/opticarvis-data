@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"TextInput_1"
+2;"60EA57C074A703877F04330B";"GroupD";"GroupD_No";0;"edit";09/03/2023 19:34:08;09/03/2023 19:35:35;5;5;5;4;5;4;1;3;3;3;3;"I had no issues at all during the simulation "
+3;"60EA57C074A703877F04330B";"GroupD";"GroupD_No";1;"";09/03/2023 19:38:52;09/03/2023 19:40:21;5;5;5;3;5;4;2;3;3;3;3;"when a white vehicle is following the vehicle I'm on it seems like its tailgating it or even colliding with it."
+4;"60EA57C074A703877F04330B";"GroupD";"GroupD_No";2;"";09/05/2023 01:05:08;09/05/2023 01:06:52;4;4;5;4;4;4;5;2;2;2;3;"I had no issues at all everything seemed to work fine for me."
+5;"60EA57C074A703877F04330B";"GroupD";"GroupD_No";3;"";09/06/2023 02:11:26;09/06/2023 02:12:35;5;5;5;4;5;4;3;3;3;3;2;"I had no issues at all everything went smooth with the study."

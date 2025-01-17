@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1
+5;5E8B89D0AFCB1606E761EF7F;GroupC;GroupC_BO;1;;09/05/2023 17:29:53;09/05/2023 17:31:04;3;I am a bit confused as to what is being asked, I thought more information would be on display.;3;N/A;1
+7;5E8B89D0AFCB1606E761EF7F;GroupC;GroupC_BO;2;;09/06/2023 17:39:28;09/06/2023 17:40:43;3;I would expect the planned route to be displayed somewhere. The final design made sense to me but I would also like addition display features made available via toggling.;3;No planned route displayed.;1
+9;5E8B89D0AFCB1606E761EF7F;GroupC;GroupC_BO;3;;09/07/2023 21:58:58;09/07/2023 21:59:35;3;N/A;3;I am satisfied with the design of the indicators used, just also want to see the intended route.;1

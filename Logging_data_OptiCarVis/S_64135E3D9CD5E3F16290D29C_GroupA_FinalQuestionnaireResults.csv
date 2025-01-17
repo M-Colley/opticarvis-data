@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"64135E3D9CD5E3F16290D29C";"GroupA";"GroupA_No";1;"";09/04/2023 21:36:53;09/04/2023 21:41:10;6;"N/A";7;"N/A";7;5;5;"I like to say what I liked and didn't like plus what I felt was wrong like the blue cars should only be behind the buildings to help improve the design process."
+21;"64135E3D9CD5E3F16290D29C";"GroupA";"GroupA_No";2;"";09/05/2023 22:24:27;09/05/2023 22:25:06;7;"N/A";7;"N/A";7
+23;"64135E3D9CD5E3F16290D29C";"GroupA";"GroupA_No";3;"";09/06/2023 22:33:44;09/06/2023 22:34:13;6;"N/A";7;"N/A";7

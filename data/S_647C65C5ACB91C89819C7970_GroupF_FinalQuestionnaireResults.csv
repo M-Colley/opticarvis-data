@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+5;"647C65C5ACB91C89819C7970";"GroupF";"GroupF_BO";1;"";09/03/2023 21:48:30;09/03/2023 21:49:51;2;"The pedestrians and vehicles had no indicators on them";3;"It's a normal driving experience without extra automated information";4;1;1;"n/a"
+7;"647C65C5ACB91C89819C7970";"GroupF";"GroupF_BO";2;"";09/04/2023 22:49:55;09/04/2023 22:50:18;7;"N/A";7;"N/A";7
+9;"647C65C5ACB91C89819C7970";"GroupF";"GroupF_BO";3;"";09/05/2023 23:10:06;09/05/2023 23:10:28;7;"N/A";7;"N/A";7

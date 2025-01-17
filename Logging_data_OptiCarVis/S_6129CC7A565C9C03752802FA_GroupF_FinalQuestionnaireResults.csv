@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+5;"6129CC7A565C9C03752802FA";"GroupF";"GroupF_No";1;"";09/03/2023 22:36:02;09/03/2023 22:36:57;6;"N/A";7;"N/A";5;5;3;"I couldn't see a traffic light in one part, so i wasn't sure why we had stopped, but the small camera/device was blocking it"
+7;"6129CC7A565C9C03752802FA";"GroupF";"GroupF_No";2;"";09/04/2023 23:03:23;09/04/2023 23:03:36;6;"N/A";6;"N/A";6
+9;"6129CC7A565C9C03752802FA";"GroupF";"GroupF_No";3;"";09/06/2023 03:14:53;09/06/2023 03:15:05;6;"N/A";6;"N/A";6

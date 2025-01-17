@@ -1,0 +1,2 @@
+timestamp;userID;groupID;longitudinalID;Trajectory;TrajectoryAlpha;TrajectorySize;EgoTrajectory;EgoTrajectoryAlpha;EgoTrajectorySize;PedestrianIntention;PedestrianIntentionSize;SemnaticSegmentation;SemnaticSegmentationAlpha;CarStatus;CarStatusAlpha;CoveredArea;CoveredAreaAlpha;CoveredAreaSize;OccludedCars
+09/06/2023 05:52:32;630B78DF7445F304DFB7D50C;GroupF;GroupF_No;True;0.8515873;0.5405864;True;0.8289682;0.4568121;True;0.1872796;True;0.9005952;True;0.8440477;True;0.8553572;0.6734127;True

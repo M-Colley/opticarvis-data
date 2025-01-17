@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+15;5809006B2A296E0001005451;GroupB;GroupB_No;1;;09/05/2023 21:23:04;09/05/2023 21:25:04;6;N/A;2;The trajectory visualizations are appreciated in the design but their functionality needs to change so that one can see what the car plants to do ahead of time.;4;2;2;It was sometimes difficult to tell what had actually been changed. I disliked the option of no settings on, but from then on it had the settings on but the changes being made weren't that noticeable. 
+16;5809006B2A296E0001005451;GroupB;GroupB_No;2;;09/06/23 22:20:00;09/06/2023 22:21:25;4;N/A;1;N/A;3;2;2;N/A
+17;5809006B2A296E0001005451;GroupB;GroupB_No;3;;09/07/23 23:00:04;09/07/2023 23:02:35;1;N/A;1;N/A;1;1;1;N/A

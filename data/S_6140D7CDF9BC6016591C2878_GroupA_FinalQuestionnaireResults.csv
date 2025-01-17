@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"6140D7CDF9BC6016591C2878";"GroupA";"GroupA_BO";1;"";09/05/2023 22:35:19;09/05/2023 22:37:04;7;"N/A";7;"N/A";6;2;2;"I THOUGHT IT WAS A GREAT DESIGN."
+21;"6140D7CDF9BC6016591C2878";"GroupA";"GroupA_BO";2;"";09/07/2023 00:38:00;09/07/2023 00:38:30;6;"n/a";6;"n/a";6
+23;"6140D7CDF9BC6016591C2878";"GroupA";"GroupA_BO";3;"";09/08/2023 01:58:13;09/08/2023 01:58:34;7;"n/a";7;"n/a";7

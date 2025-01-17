@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"Aesthetics_1";"Acceptance_1";"AttentionCheck_1";"Acceptance_2";"TextInput_1"
+3;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";1;"exploitation";09/02/2023 18:26:24;09/02/2023 18:29:19;4;4;4;4;4;3;15;-2;-2;-1;-1;5;5;;4;"I felt more anxious then if I was driving when the car was driving itself."
+4;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";1;"";09/02/2023 18:32:20;09/02/2023 18:33:48;2;3;3;2;3;2;14;-1;-1;0;-1;5;6;;4;"I like how it can sense when a vehicle is there, even when its completely covered by a building. I did not like how the vehicle did not stop at a stop sign."
+6;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";2;"";09/03/2023 21:06:57;09/03/2023 21:08:19;4;4;4;4;5;4;12;-1;-1;0;0;5;7;;5;"n/a"
+8;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";3;"";09/05/2023 04:20:39;09/05/2023 04:21:43;3;3;4;3;4;2;13;-1;-1;-1;-1;5;5;;4;"n/a"

@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"5E3ADFC595FF562FBDD130FA";"GroupA";"GroupA_BO";1;"";09/05/2023 20:15:37;09/05/2023 20:17:11;6;"It is pretty close to what I imagined.";6;"I am happy with the final design. ";5;4;5;"I am fairly content with the way this process went. I think the end result is pretty close to what I imagined."
+21;"5E3ADFC595FF562FBDD130FA";"GroupA";"GroupA_BO";2;"";09/06/2023 20:48:53;09/06/2023 20:49:17;6;"N/A";6;"N/A";5
+23;"5E3ADFC595FF562FBDD130FA";"GroupA";"GroupA_BO";3;"";09/08/2023 00:33:32;09/08/2023 00:34:09;5;"N/A";6;"I am happy with the final design.";6

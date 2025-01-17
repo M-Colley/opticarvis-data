@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+15;6143AF8721D1445864C4F6C8;GroupB;GroupB_BO;1;;09/03/2023 20:10:53;09/03/2023 20:12:50;6;I did not really imagine much so I did not know what to think.;6;I looked fine.;6;7;6;N/A
+17;6143AF8721D1445864C4F6C8;GroupB;GroupB_BO;2;;09/04/2023 23:43:52;09/04/2023 23:44:34;7;N/A;7;N/A;7;7;5;N/A
+19;6143AF8721D1445864C4F6C8;GroupB;GroupB_BO;3;;09/06/2023 16:27:29;09/06/2023 16:28:11;6;N/A;6;N/A;6;7;6;N/A

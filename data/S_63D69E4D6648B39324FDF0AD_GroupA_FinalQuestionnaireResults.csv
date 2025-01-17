@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+19;"63D69E4D6648B39324FDF0AD";"GroupA";"GroupA_BO";1;"";09/04/2023 19:36:59;09/04/2023 19:39:25;7;"N/A";6;"I was slightly dissatisfied with the yellow marking of larger objects like the entire metal structure that had a sign on it, though I was satisfied with the yellow marking of just signs and obstructions like small barriers.";7;7;7;"N/A"
+21;"63D69E4D6648B39324FDF0AD";"GroupA";"GroupA_BO";2;"";09/05/2023 22:55:10;09/05/2023 22:55:31;7;"N/A";7;"N/A";7
+23;"63D69E4D6648B39324FDF0AD";"GroupA";"GroupA_BO";3;"";09/06/2023 23:16:39;09/06/2023 23:16:49;7;"N/A";7;"N/A";6

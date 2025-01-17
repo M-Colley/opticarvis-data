@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"5F7D4A2C5DB79D21C7D07240";"GroupC";"GroupC_BO";1;"";09/03/2023 18:58:17;09/03/2023 18:59:32;5;"N/A";5;"I think the interface mostly did a good job identifying the intentions of the pedestrians and other vehicles. ";5
+7;"5F7D4A2C5DB79D21C7D07240";"GroupC";"GroupC_BO";2;"";09/04/2023 22:12:35;09/04/2023 22:13:07;3;"The shade of the colors isn't very realistic";4;"N/A";3
+9;"5F7D4A2C5DB79D21C7D07240";"GroupC";"GroupC_BO";3;"";09/05/2023 23:52:47;09/05/2023 23:53:53;4;"I think the blue and red indicators that are supposed to tell which way the vehicle is going to go aren't very useful. Most of the time they point straight ahead, and don't move until the car is already making a turn";5;"N/A";3

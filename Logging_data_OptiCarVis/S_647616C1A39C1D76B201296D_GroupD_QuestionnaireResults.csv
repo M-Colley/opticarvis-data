@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;TextInput_1
+2;647616C1A39C1D76B201296D;GroupD;GroupD_No;0;edit;09/02/2023 18:38:07;09/02/2023 18:39:41;2;3;3;2;3;3;15;-2;-2;-2;-1;"It was interesting. This is my second time trying to finish this though. The first time I got past this page and it said The server could not be started... Please restart the project."""
+3;647616C1A39C1D76B201296D;GroupD;GroupD_No;1;;09/02/2023 18:42:40;09/02/2023 18:43:30;2;1;2;2;2;2;16;-2;-1;-1;-2;It ran a stop sign.
+4;647616C1A39C1D76B201296D;GroupD;GroupD_No;2;;09/03/2023 18:57:38;09/03/2023 18:59:06;2;2;2;2;2;2;13;-3;-3;-3;-3;No problems at all. This is a cool study. You could make a driving video game out of this.
+5;647616C1A39C1D76B201296D;GroupD;GroupD_No;3;;09/04/2023 19:53:19;09/04/2023 19:54:15;2;2;2;2;2;2;13;-3;-3;-3;-3;N/A

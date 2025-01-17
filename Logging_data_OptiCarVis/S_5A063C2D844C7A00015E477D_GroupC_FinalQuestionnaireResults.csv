@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";1;"";09/02/2023 17:54:22;09/02/2023 17:58:15;6;"It corresponded with the description I was given at the start of the test, but one things missing that I would have expected is a map or some other visual element that shows where the car plans to go--one that provides a little more advance notice than the trajectory marker. ";5;"As mentioned above, a map charting a course to the destination would be appreciated.";4
+7;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";2;"";09/03/2023 18:26:24;09/03/2023 18:26:45;4;"N/A";4;"N/A";3
+9;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";3;"";09/04/2023 22:48:35;09/04/2023 22:48:53;4;"N/A";4;"N/A";4

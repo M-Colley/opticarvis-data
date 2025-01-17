@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"Aesthetics_1";"Acceptance_1";"AttentionCheck_1";"Acceptance_2";"TextInput_1"
+3;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";1;"exploitation";09/03/2023 21:59:22;09/03/2023 22:00:34;5;5;5;1;4;4;11;1;1;2;2;6;6;;6;"N/A"
+4;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";1;"";09/03/2023 22:04:46;09/03/2023 22:05:32;5;5;5;5;1;5;6;3;3;3;3;7;7;;7;"n/a"
+6;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";2;"";09/05/2023 01:19:26;09/05/2023 01:21:09;3;3;2;3;3;4;8;-1;0;0;0;6;6;;5;"I dont know why but it felt like it was a moving a lot faster than it was last time and did not feel as safe"
+8;"5694E7B5E0C800000B5A3841";"GroupC";"GroupC_BO";3;"";09/06/2023 01:39:32;09/06/2023 01:41:11;5;5;5;5;5;5;3;2;2;2;2;7;7;;7;"I think maybe I am just used to the experience becuase it did not feel nearly as unpredictable as last time"

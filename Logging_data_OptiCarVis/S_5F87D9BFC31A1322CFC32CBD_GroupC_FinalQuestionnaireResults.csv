@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"5F87D9BFC31A1322CFC32CBD";"GroupC";"GroupC_No";1;"";09/03/2023 20:43:18;09/03/2023 20:43:50;7;"n/a";7;"n/a";7
+7;"5F87D9BFC31A1322CFC32CBD";"GroupC";"GroupC_No";2;"";09/05/2023 03:11:58;09/05/2023 03:12:50;3;"The  colors were washed out looking.";3;"The colors looked whited out and washed out like I said easrlier. Made it harder to see things.";3
+9;"5F87D9BFC31A1322CFC32CBD";"GroupC";"GroupC_No";3;"";09/06/2023 03:19:50;09/06/2023 03:20:56;6;"It's as I imagined.";6;"I am very satisfied. I really feel like I am in a self driving vehicle.";7

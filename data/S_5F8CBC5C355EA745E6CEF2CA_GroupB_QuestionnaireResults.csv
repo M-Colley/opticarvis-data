@@ -1,0 +1,13 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;Aesthetics_1;Acceptance_1;AttentionCheck_1;Acceptance_2;TextInput_1
+3;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;1;exploration;09/03/2023 21:19:33;09/03/2023 21:20:12;5;5;5;5;4;4;10;0;0;0;0;5;6;;6;NA
+4;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;2;exploitation;09/03/2023 21:21:13;09/03/2023 21:22:00;3;3;3;4;3;3;18;0;0;0;0;4;2;;2;N/A
+5;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;3;exploitation;09/03/2023 21:22:45;09/03/2023 21:23:23;3;4;3;3;3;2;18;-1;-1;-1;-1;3;2;1;2;N/A
+6;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;4;exploitation;09/03/2023 21:24:03;09/03/2023 21:24:34;2;4;3;3;3;2;18;-1;1;-1;-1;3;2;;2;N/A
+7;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;5;exploitation;09/03/2023 21:25:20;09/03/2023 21:25:47;3;4;4;3;3;4;18;-1;1;-1;1;3;2;;2;N/A
+8;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;6;exploitation;09/03/2023 21:26:56;09/03/2023 21:27:22;3;4;4;3;3;5;15;-1;1;-1;1;4;5;;4;N/A
+9;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;7;exploitation;09/03/2023 21:28:04;09/03/2023 21:28:25;3;4;4;4;4;4;10;0;1;1;1;4;5;1;5;N/A
+10;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;8;exploitation;09/03/2023 21:29:07;09/03/2023 21:29:25;4;4;4;5;4;5;8;0;2;1;2;4;5;;5;N/A
+11;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;9;exploitation;09/03/2023 21:35:18;09/03/2023 21:35:39;4;5;4;5;4;5;8;2;2;1;1;4;6;;6;N/A
+12;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;10;exploitation;09/03/2023 21:36:20;09/03/2023 21:37:13;5;5;5;5;5;4;7;2;1;2;2;6;6;;6;N/A
+13;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;11;exploitation;09/03/2023 21:41:26;09/03/2023 21:42:02;5;5;5;5;5;5;4;2;2;2;3;6;5;1;5;N/A
+14;5F8CBC5C355EA745E6CEF2CA;GroupB;GroupB_No;1;;09/03/2023 21:45:00;09/03/2023 21:45:27;5;5;5;5;5;5;4;2;2;3;2;6;6;;6;N/A

@@ -1,0 +1,7 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"Aesthetics_1";"Acceptance_1";"AttentionCheck_1";"Acceptance_2";"TextInput_1"
+3;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";1;"exploration";09/05/2023 23:49:11;09/05/2023 23:50:19;5;4;5;5;4;5;2;1;2;2;2;5;6;;6;"No problems. Nothing that I didn't like. I liked the way to edit the different features."
+4;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";2;"exploitation";09/05/2023 23:51:30;09/05/2023 23:52:19;4;4;3;5;3;4;2;2;2;2;1;3;4;;4;"No problems. Nothing that I didn't like."
+5;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";3;"exploitation";09/05/2023 23:53:07;09/05/2023 23:54:01;5;5;5;5;5;5;1;3;3;3;3;7;7;1;7;"Really like the display. Found it very easy to understand what the car would do next."
+6;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";1;"";09/05/2023 23:57:02;09/05/2023 23:57:41;5;5;4;5;4;5;2;2;2;2;2;6;7;;7;"Good visuals."
+8;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";2;"";09/07/2023 03:45:10;09/07/2023 03:46:09;5;4;4;5;4;2;1;1;1;2;1;5;5;;5;"no problems. Nothing that I disliked."
+9;"62C4DBAE8FB1FF9CD93A3150";"GroupB";"GroupB_No";2;"";09/07/2023 04:00:45;09/07/2023 04:01:53;4;4;4;5;4;5;1;1;2;1;2;5;5;;5;"I had no problems. I liked it a little bit.  Would like to see the direction indicator more."

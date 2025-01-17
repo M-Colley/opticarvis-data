@@ -1,0 +1,3 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;TextInput_1
+2;643A058E5FE260CC7CBC2593;GroupD;GroupD_No;0;edit;09/03/2023 19:05:36;09/03/2023 19:08:16;3;3;3;3;3;2;10;-2;0;1;1;The women were distracting.
+3;643A058E5FE260CC7CBC2593;GroupD;GroupD_No;1;;09/03/2023 19:11:17;09/03/2023 19:14:39;3;2;2;3;3;2;13;-2;-1;-1;-1;It was a bit more unsettling with the pedestrians that were jaywalking.

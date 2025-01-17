@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+5;"645BAFF202A9482DEEFAFAB3";"GroupF";"GroupF_BO";1;"";09/03/2023 21:31:14;09/03/2023 21:32:05;6;"N/A";7;"N/A";6;6;7;"Like I said earlier, I think the pedistrian colors need to be overhauled."
+7;"645BAFF202A9482DEEFAFAB3";"GroupF";"GroupF_BO";2;"";09/05/2023 03:34:10;09/05/2023 03:34:51;6;"Turn down sign highlighting";6;"Same as up there";6
+9;"645BAFF202A9482DEEFAFAB3";"GroupF";"GroupF_BO";3;"";09/06/2023 03:56:10;09/06/2023 03:56:50;6;"Road Sign Color Intensity";6;"Road Sign Color Intensity";6

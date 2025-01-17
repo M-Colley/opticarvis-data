@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"628C2454C8C66010DD87391D";"GroupC";"GroupC_BO";1;"";09/03/2023 19:44:31;09/03/2023 19:44:52;7;"N/A";7;"N/A";7
+7;"628C2454C8C66010DD87391D";"GroupC";"GroupC_BO";2;"";09/04/2023 19:59:43;09/04/2023 20:00:11;6;"I think the color of a crossing pedestrian should be red, not dark blue.";6;"N/A";6
+9;"628C2454C8C66010DD87391D";"GroupC";"GroupC_BO";3;"";09/05/2023 21:47:27;09/05/2023 21:47:52;6;"Pedestrian color needs to be red, not dark blue when crossing.";6;"n/a";6

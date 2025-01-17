@@ -1,0 +1,2 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+5;5720A9F6FD3A5200113C1891;GroupF;GroupF_BO;1;;09/06/2023 18:24:58;09/06/2023 18:25:59;3;N/A;3;N/A;3;2;2;N/A

@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;Aesthetics_1;Acceptance_1;AttentionCheck_1;Acceptance_2;TextInput_1
+3;5E8D8624A9E4EF0009ED2D43;GroupF;GroupF_No;1;;09/02/2023 19:44:30;09/02/2023 19:45:47;2;3;2;2;2;1;10;-3;-3;-3;-3;3;4;;4;NA
+4;5E8D8624A9E4EF0009ED2D43;GroupF;GroupF_No;1;;09/02/2023 19:48:55;09/02/2023 19:49:30;2;2;3;2;2;1;10;-3;-3;-3;-3;4;4;;4;NA
+6;5E8D8624A9E4EF0009ED2D43;GroupF;GroupF_No;2;;09/03/2023 20:15:39;09/03/2023 20:16:16;2;3;2;3;2;2;10;-3;-3;-3;-3;4;4;;4;NA
+8;5E8D8624A9E4EF0009ED2D43;GroupF;GroupF_No;3;;09/04/2023 22:58:22;09/04/2023 22:58:51;2;3;2;1;2;2;10;-3;-3;-3;-3;4;3;;4;NA

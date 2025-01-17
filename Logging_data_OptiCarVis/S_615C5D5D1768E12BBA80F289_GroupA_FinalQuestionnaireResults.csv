@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1;Agency_1;Ownership_1;Interactivity_1
+19;615C5D5D1768E12BBA80F289;GroupA;GroupA_BO;1;;09/03/2023 22:29:28;09/03/2023 22:30:08;5;n/a;5;n/a;6;5;6;i didn't feel like a lot changed between simulations
+21;615C5D5D1768E12BBA80F289;GroupA;GroupA_BO;2;;09/04/2023 22:43:02;09/04/2023 22:43:36;6;n/a;6;How are you supposed to know when it's going to turn?;6;5;5;N/A
+23;615C5D5D1768E12BBA80F289;GroupA;GroupA_BO;3;;09/05/2023 23:48:52;09/05/2023 23:49:17;6;I think there should be a turn indicatpr;6;I think there should be a turn indicator;6;5;5;N/A

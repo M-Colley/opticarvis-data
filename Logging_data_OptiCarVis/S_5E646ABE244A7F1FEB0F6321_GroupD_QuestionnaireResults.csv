@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"TextInput_1"
+2;"5E646ABE244A7F1FEB0F6321";"GroupD";"GroupD_No";0;"edit";09/03/2023 19:36:05;09/03/2023 19:36:55;4;4;4;5;4;2;5;1;1;2;2;"N/A"
+3;"5E646ABE244A7F1FEB0F6321";"GroupD";"GroupD_No";1;"";09/03/2023 19:39:56;09/03/2023 19:40:58;2;2;2;2;3;2;10;-1;0;-1;0;"The car turned at a stop sign without stopping and yielding before moving again"
+4;"5E646ABE244A7F1FEB0F6321";"GroupD";"GroupD_No";2;"";09/04/2023 20:10:18;09/04/2023 20:11:30;3;3;3;2;3;2;10;-1;-1;0;-1;"The car broke two stop signs and did not stop. Good job noticing pedestrians and stopping for them"
+5;"5E646ABE244A7F1FEB0F6321";"GroupD";"GroupD_No";3;"";09/06/2023 01:05:16;09/06/2023 01:06:15;3;3;3;2;2;2;10;-2;-1;-1;-1;"The car passed a stop sign without stopping. Stopped and slowed down at a reasonable distance for pedestrians"

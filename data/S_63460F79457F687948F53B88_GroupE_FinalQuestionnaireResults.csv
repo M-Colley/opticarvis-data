@@ -1,0 +1,2 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+13;"63460F79457F687948F53B88";"GroupE";"GroupE_No";1;"";09/04/2023 23:50:10;09/04/2023 23:52:13;5;"In couple of stop sign, the Automated vehicle did not stop. The speed limit of the road was not clear, as it was driving sometimes less than35 and sometimes below 25.";7;"N/A";7;7;5;"N/A"

@@ -1,0 +1,5 @@
+Trust QEHVI;Understanding QEHVI;MentalLoad QEHVI;PerceivedSafety QEHVI;Aesthetics QEHVI;Acceptance QEHVI;Trajectory;TrajectoryAlpha;TrajectorySize;EgoTrajectory;EgoTrajectoryAlpha;EgoTrajectorySize;PedestrianIntention ;PedestrianIntentionSize ;SemanticSegmentation;SemanticSegmentationAlpha;CarStatus;CarStatusAlpha;CoveredArea;CoveredAreaAlpha;CoveredAreaSize;OccludedCars;IsPareto;Run;UserID;GroupID;LongitudinalID
+4.5;4.75;3.0;2.25;6.0;6.5;0.75;1.0;0.6;0.75;0.9;0.57;0.75;0.18;0.75;0.8;0.75;0.84;0.75;0.92;0.27;0.75;TRUE;0;645BAFF202A9482DEEFAFAB3;GroupF;GroupF_BO
+4.5;4.75;3.0;2.25;6.0;6.5;0.75;1.0;0.6;0.75;0.9;0.57;0.75;0.18;0.75;0.8;0.75;0.84;0.75;0.92;0.27;0.75;FALSE;0;645BAFF202A9482DEEFAFAB3;GroupF;GroupF_BO
+3.5;3.5;2.0;1.75;3.0;2.0;0.25;0.103;0.122;0.25;0.173;0.263;0.75;0.194;0.25;0.883;0.25;0.738;0.25;0.16;0.751;0.25;FALSE;0;645BAFF202A9482DEEFAFAB3;GroupF;GroupF_BO
+5.0;4.5;1.0;2.75;6.0;6.0;0.75;1.0;0.43;0.75;0.993;0.402;0.75;0.118;0.75;0.814;0.75;0.868;0.75;0.994;0.323;0.75;TRUE;0;645BAFF202A9482DEEFAFAB3;GroupF;GroupF_BO

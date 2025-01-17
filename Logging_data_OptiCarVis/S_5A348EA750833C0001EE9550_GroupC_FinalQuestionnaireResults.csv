@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Expectation_1;ExpectationFeedback_2;Satisfaction_1;SatisfactionFeedback_2;Confidence_1
+5;5A348EA750833C0001EE9550;GroupC;GroupC_No;1;;09/03/2023 20:12:15;09/03/2023 20:12:30;3;N/A;2;N/A;2
+7;5A348EA750833C0001EE9550;GroupC;GroupC_No;2;;09/04/2023 22:20:00;09/04/2023 22:20:17;2;N/A;2;N/A;2
+9;5A348EA750833C0001EE9550;GroupC;GroupC_No;3;;09/06/2023 00:27:10;09/06/2023 00:27:20;2;N/A;2;N/A;2

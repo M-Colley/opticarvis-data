@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"TextInput_1"
+2;"5E9310D77D6DC1000BAA5EE7";"GroupD";"GroupD_No";0;"edit";09/03/2023 21:44:43;09/03/2023 21:46:00;4;4;4;5;5;5;2;1;1;2;2;"It took a while to download the application so i think i timed out "
+3;"5E9310D77D6DC1000BAA5EE7";"GroupD";"GroupD_No";1;"";09/03/2023 21:48:58;09/03/2023 21:51:19;4;4;4;4;4;3;2;2;2;2;2;"N/A"
+4;"5E9310D77D6DC1000BAA5EE7";"GroupD";"GroupD_No";2;"";09/05/2023 09:59:24;09/05/2023 10:29:41;4;4;4;5;4;5;5;0;1;2;0;"N/a"
+5;"5E9310D77D6DC1000BAA5EE7";"GroupD";"GroupD_No";3;"";09/06/2023 21:23:04;09/06/2023 21:23:44;4;4;4;5;5;5;2;0;-1;2;2;"N/A"

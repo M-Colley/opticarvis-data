@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1"
+5;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";1;"";09/02/2023 18:33:48;09/02/2023 18:34:12;6;"n/a";5;"n/a";5
+7;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";2;"";09/03/2023 21:08:19;09/03/2023 21:09:47;6;"It looked exactly like the first time I interacted with it, but it didn't show the car's that were behind walls like in the last example.";5;"I want to see the cars behind the walls, that would make it more safe than even a person driving it.";5
+9;"5F50732850C7C600098593DF";"GroupC";"GroupC_No";3;"";09/05/2023 04:21:43;09/05/2023 04:22:27;6;"n/a";6;"n/a";5

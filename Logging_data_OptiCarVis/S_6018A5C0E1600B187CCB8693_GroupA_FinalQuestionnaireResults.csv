@@ -1,0 +1,4 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Expectation_1";"ExpectationFeedback_2";"Satisfaction_1";"SatisfactionFeedback_2";"Confidence_1";"Agency_1";"Ownership_1";"Interactivity_1"
+14;"6018A5C0E1600B187CCB8693";"GroupA";"GroupA_BO";1;"";09/04/2023 20:07:56;09/04/2023 20:08:51;7;"N/A";7;"N/A";7;5;5;"I wanted longer trajectory lines to know the path the vehicle will take. Everything else was what I wanted."
+16;"6018A5C0E1600B187CCB8693";"GroupA";"GroupA_BO";2;"";09/06/2023 02:09:36;09/06/2023 02:09:49;7;"N/A";7;"N/A";7
+18;"6018A5C0E1600B187CCB8693";"GroupA";"GroupA_BO";3;"";09/08/2023 16:38:50;09/08/2023 16:39:03;7;"N/A";7;"N/A";7

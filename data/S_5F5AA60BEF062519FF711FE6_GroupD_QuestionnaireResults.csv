@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;Trust_1;Trust_2;Understanding_1;Understanding_2;Understanding_3;Understanding_4;MentalLoad_1;PerceivedSafety_1;PerceivedSafety_2;PerceivedSafety_3;PerceivedSafety_4;TextInput_1
+2;5F5AA60BEF062519FF711FE6;GroupD;GroupD_No;0;edit;09/03/2023 21:49:02;09/03/2023 21:49:56;3;3;3;3;3;2;8;-2;-3;-3;-2;N/A
+3;5F5AA60BEF062519FF711FE6;GroupD;GroupD_No;1;;09/03/2023 21:52:52;09/03/2023 21:54:11;3;2;3;2;3;2;8;-2;-3;-2;-2;I believe there was one moment towards the end of the vehicle ride where it did not come to a complete stop at a stop sign.
+4;5F5AA60BEF062519FF711FE6;GroupD;GroupD_No;2;;09/04/2023 23:27:34;09/04/2023 23:28:21;2;2;3;2;3;2;8;-3;-3;-2;-2;N/A
+5;5F5AA60BEF062519FF711FE6;GroupD;GroupD_No;3;;09/06/2023 06:46:50;09/06/2023 06:47:31;3;3;3;3;3;2;9;-3;-3;-3;-2;N/A

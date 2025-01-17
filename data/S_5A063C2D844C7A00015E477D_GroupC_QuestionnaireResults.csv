@@ -1,0 +1,5 @@
+response_id;user_id;group_id;longitudinal_id;run;phase;started;finished;"Trust_1";"Trust_2";"Understanding_1";"Understanding_2";"Understanding_3";"Understanding_4";"MentalLoad_1";"PerceivedSafety_1";"PerceivedSafety_2";"PerceivedSafety_3";"PerceivedSafety_4";"Aesthetics_1";"Acceptance_1";"AttentionCheck_1";"Acceptance_2";"TextInput_1"
+3;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";1;"exploitation";09/02/2023 17:48:05;09/02/2023 17:49:05;3;3;4;4;4;4;7;0;0;2;-1;6;5;;5;"N/A"
+4;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";1;"";09/02/2023 17:52:07;09/02/2023 17:54:22;4;4;4;4;4;3;5;0;0;2;-1;6;6;;5;"It's hard to predict exactly where the car will go, but I imagine this would be clearer in the context of a real journey."
+6;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";2;"";09/03/2023 18:25:27;09/03/2023 18:26:24;2;2;1;3;2;2;4;-1;-1;0;-2;4;5;;3;"N/A"
+8;"5A063C2D844C7A00015E477D";"GroupC";"GroupC_No";3;"";09/04/2023 22:47:37;09/04/2023 22:48:35;2;2;1;2;3;4;4;-2;-1;-1;-3;4;4;;4;"N/A"
