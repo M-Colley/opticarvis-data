@@ -10,8 +10,8 @@ if (requireNamespace("rstudioapi", quietly = TRUE) && rstudioapi::isAvailable())
 
 library(data.table)
 
-library(devtools)
-source_url("https://raw.githubusercontent.com/M-Colley/rCode/main/r_functionality.R")
+library(colleyRstats)
+colleyRstats::colleyRstats_setup()
 
 library("grid")
 library("gridExtra")
