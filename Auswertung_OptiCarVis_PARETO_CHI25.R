@@ -91,9 +91,8 @@ remove_group_outliers <- function(original_data, group, dependent_var) {
 }
 
 
-library(devtools)
-source_url("https://raw.githubusercontent.com/M-Colley/rCode/main/r_functionality.R")
-
+library(colleyRstats)
+colleyRstats::colleyRstats_setup()
 
 
 
